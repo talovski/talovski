@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Nika, a passionate self-taught full stack developer. I am currently based in Tel Aviv, Israel. 
+I am Nika, a passionate full stack developer. I am currently based in Tel Aviv, Israel. 
 
 My primary interest is UI development — I love making stuff more accessible, easier and more pleasant to use. I take great care in the everything that I build.
 
