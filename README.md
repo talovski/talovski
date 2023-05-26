@@ -9,4 +9,4 @@ My pet project is DM Haven — an app for playing Dungeons and Dragons. It mostl
 
 **Languages and tools:**  
 
-TypeScript, React, Redux Toolkit, Tailwind CSS, CSS-in-JS, Angular, Akita, RxJS
+TypeScript, React, Next.js, Redux (Toolkit), Tailwind CSS, CSS-in-JS (Vanilla Extract, Styled Components), Angular, Akita, Rx.js
